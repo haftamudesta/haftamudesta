@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Haftamu Desta</h1>
-<h3 align="center">A passionate full-stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haftamudesta&label=Profile%20views&color=0e75b6&style=flat" alt="haftamudesta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/destahftamu" target="blank"><img src="https://img.shields.io/twitter/follow/destahftamu?logo=twitter&style=for-the-badge" alt="destahftamu" /></a> </p>
 
-- 🌱 I’m currently learning **full-stack web design at Microverse**
+- 🌱 I’m currently learning **Full-Stack web design at Microverse**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Ruby**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, and Ruby**
 
 - 📫 How to reach me **desst451616@hotmial.com**
 
