@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack web design at Microverse**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, and Ruby onrails**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, and Ruby on Rails**
 
 - 📫 How to reach me **desta451616@hotmial.com**
 
