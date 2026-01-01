@@ -22,7 +22,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 <a href="https://fb.com/haftamudesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haftamudesta" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Tech Stack and Languages
+## 🛠️ Tech Stacks and Languages
 
 ### 🗣️ Programming Languages:
 
@@ -90,7 +90,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
   </p>
 <br>
 
-### ⚙️ Back End Tech Stack:
+### ⚙️ Back End Tech Stacks:
 
 <br>
 <p align="left">
