@@ -15,7 +15,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 - 📫 How to reach me: **desta451616@hotmail.com**
 - ⚡ Fun fact: **I combine engineering precision with coding creativity**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">## 🌐 Social Media & Professional Profiles:</h3>
 <p align="left">
 <a href="https://twitter.com/destahftamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="destahftamu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haftamu-desta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haftamu-desta" height="30" width="40" /></a>
