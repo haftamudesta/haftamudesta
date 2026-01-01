@@ -6,12 +6,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate about building responsive, user-friendly web applications. Currently expanding my expertise across the full development stack while mastering both front-end and back-end technologies.
+I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate about building responsive, user-friendly web applications. Currently expanding my expertise across the Full Stack development while mastering both Front End and Back End Technologies.
 
+- 🎓 **MSc in Electrical Engineering**
 - 🌱 I'm currently learning **Full-Stack web development at freeCodeCamp**
 - 🎓 Previously studied at **Microverse**
 - 💬 Ask me about **JavaScript, Node.js, Python, Express.js, HTML, CSS, React, React Native, MongoDB, PostgreSQL, and Ruby on Rails**
 - 📫 How to reach me: **desta451616@hotmail.com**
+  ⚡ Fun fact: **I combine engineering precision with coding creativity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
