@@ -56,7 +56,9 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
   </a>
 </p>
 <br>
+
 ### 🎨 Front End Tech Stacks:
+
 <br>
 <p align="left">
   <!-- React -->
@@ -190,6 +192,35 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
   </a>
 </p>
 <br/>
+
+### 🧪 Testing Frameworks
+
+<br />
+<p align="left">
+  <!-- RSpec -->
+  <a href="https://rspec.info/" target="_blank" rel="noreferrer">
+    <img src="https://rspec.info/images/logo_ogp.png" alt="rspec" width="50" height="50" />
+  </a>
+  <!-- Jest -->
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" />
+  </a>
+  <!-- Mocha -->
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50" />
+  </a>
+  <!-- Cypress -->
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50" />
+  </a>
+  <!-- Vitest -->
+  <a href="https://vitest.dev" target="_blank" rel="noreferrer">
+    <img src="https://vitest.dev/logo.svg" alt="vitest" width="50" height="50" />
+  </a>
+</p>
+<br />
+<br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haftamudesta&show_icons=true&locale=en&layout=compact" alt="haftamudesta" /></p>
 
