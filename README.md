@@ -10,7 +10,14 @@
 
 - 📫 How to reach me **desta451616@hotmial.com**
 
-- ⚡ Fun fact **I am funny**
+## 👨‍💻 About Me
+
+I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate about building responsive, user-friendly web applications. Currently expanding my expertise across the full development stack while mastering both front-end and back-end technologies.
+
+- 🌱 I'm currently learning **Full-Stack web development at freeCodeCamp**
+- 🎓 Previously studied at **Microverse**
+- 💬 Ask me about **JavaScript, Node.js, Python, Express.js, HTML, CSS, React, React Native, MongoDB, PostgreSQL, and Ruby on Rails**
+- 📫 How to reach me: **desta451616@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
