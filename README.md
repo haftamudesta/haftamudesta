@@ -25,8 +25,6 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 ### 🗣️ Programming Languages:
 
 <br>
-<br>
-
 <p align="left">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -57,9 +55,9 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50" />
   </a>
 </p>
-
-### 🎨 Front End Tech Stacks
-
+<br>
+### 🎨 Front End Tech Stacks:
+<br>
 <p align="left">
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -86,9 +84,11 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
   </a>
   </p>
+<br>
 
-### ⚙️ Back End Tech Stack
+### ⚙️ Back End Tech Stack:
 
+<br>
 <p align="left">
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -115,9 +115,11 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus-backend" width="50" height="50" />
   </a>
 </p>
+<br>
 
 ### 🗄️ Databases & Data Tools
 
+<br>
 <p align="left">
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -144,9 +146,50 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="50" height="50" />
   </a>
 </p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🛠️ Development Tools & Practices:
+
+<br/>
+<p align="left">
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45" />
+  </a>
+  <!-- Chrome DevTools -->
+  <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome-devtools" width="45" height="45" />
+  </a>
+  <!-- CI/CD -->
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45" />
+  </a>
+   <!-- Webpack -->
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="45" height="45" />
+  </a>
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45" />
+  </a>
+  <!-- Agile -->
+  <a href="https://agilemanifesto.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/agile/agile-icon.svg" alt="agile" width="45" height="45" />
+  </a>
+  <!-- GitFlow -->
+  <a href="https://www.gitflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://gitflow.com/images/git-flow-logo.png" alt="gitflow" width="45" height="45" />
+  </a>
+</p>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haftamudesta&show_icons=true&locale=en&layout=compact" alt="haftamudesta" /></p>
 
