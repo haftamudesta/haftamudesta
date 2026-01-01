@@ -22,7 +22,10 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 
 ## 🛠️ Tech Stack and Languages
 
-### 🗣️ Programming Languages
+### 🗣️ Programming Languages:
+
+<br>
+<br>
 
 <p align="left">
   <!-- JavaScript -->
@@ -83,6 +86,35 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
   </a>
   </p>
+
+### ⚙️ Back End Tech Stack
+
+<p align="left">
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+  </a>
+  <!-- Next.js (Backend) -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs-backend" width="50" height="50" />
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
+  </a>
+  <!-- Socket.io -->
+  <a href="https://socket.io" target="_blank" rel="noreferrer">
+    <img src="https://socket.io/images/logo.svg" alt="socketio" width="50" height="50" />
+  </a>
+  <!-- Ruby on Rails -->
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50" />
+  </a>
+  <!-- C++ (Backend) -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus-backend" width="50" height="50" />
+  </a>
+</p>
 
 ### 🗄️ Databases & Data Tools
 
