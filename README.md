@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haftamu Desta</h1>
-<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haftamudesta&label=Profile%20views&color=0e75b6&style=flat" alt="haftamudesta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/destahftamu" target="blank"><img src="https://img.shields.io/twitter/follow/destahftamu?logo=twitter&style=for-the-badge" alt="destahftamu" /></a> </p>
@@ -13,7 +13,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 - 🎓 Previously studied **Full-Stack web development** at **Microverse**
 - 💬 Ask me about **JavaScript, Node.js, Python, Express.js, HTML, CSS, React, React Native, MongoDB, PostgreSQL, and Ruby on Rails**
 - 📫 How to reach me: **desta451616@hotmail.com**
-- ⚡ Fun fact: **I combine engineering precision with coding creativity**
+- ⚡ **I combine engineering precision with coding creativity**
 
 <h3 align="left">## 🌐 Social Media & Professional Profiles:</h3>
 <p align="left">
