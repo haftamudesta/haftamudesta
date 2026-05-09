@@ -8,23 +8,25 @@
 
 I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate about building responsive, user-friendly web applications. Currently expanding my expertise across the Full Stack development while mastering both Front End and Back End Technologies.
 
-- 🎓 **MSc in Electrical Engineering**
-- 🌱 I'm currently learning **Full-Stack web development at freeCodeCamp**
-- 🎓 Previously studied **Full-Stack web development** at **Microverse**
-- 💬 Ask me about **JavaScript, Node.js, Python, Express.js, HTML, CSS, React, React Native, MongoDB, PostgreSQL, and Ruby on Rails**
-- 📫 How to reach me: **desta451616@hotmail.com**
-- ⚡ **I combine engineering precision with coding creativity**
+- **MSc in Electrical Engineering**
+- I'm currently learning **Full-Stack web development at freeCodeCamp**
+- Previously studied **Full-Stack web development** at **Microverse**
+- Ask me about **JavaScript, Node.js, Python, Express.js, HTML, CSS, React, React Native, MongoDB, PostgreSQL, and Ruby on Rails**
+- How to reach me: **desta451616@hotmail.com**
+- **I combine engineering precision with coding creativity**
 
-<h3 align="left">## 🌐 Social Media & Professional Profiles:</h3>
+<h3 align="left">
+##  Social Media & Professional Profiles:
+</h3>
 <p align="left">
 <a href="https://twitter.com/destahftamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="destahftamu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haftamu-desta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haftamu-desta" height="30" width="40" /></a>
 <a href="https://fb.com/haftamudesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haftamudesta" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Tech Stacks and Languages
+## Tech Stacks and Languages
 
-### 🗣️ Programming Languages:
+### Programming Languages:
 
 <br>
 <p align="left">
@@ -59,7 +61,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 </p>
 <br>
 
-### 🎨 Front End Tech Stacks:
+### Front End Tech Stacks:
 
 <br>
 <p align="left">
@@ -90,7 +92,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
   </p>
 <br>
 
-### ⚙️ Back End Tech Stacks:
+### Back End Tech Stacks:
 
 <br>
 <p align="left">
@@ -121,7 +123,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 </p>
 <br>
 
-### 🗄️ Databases & Data Tools
+### Databases & Data Tools
 
 <br>
 <p align="left">
@@ -152,7 +154,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 </p>
 <br/>
 
-### 🛠️ Development Tools & Practices:
+### Development Tools & Practices:
 
 <br/>
 <p align="left">
@@ -195,7 +197,7 @@ I'm a dedicated Full Stack Developer student at **freeCodeCamp**, passionate abo
 </p>
 <br/>
 
-### 🧪 Testing Frameworks
+### Testing Frameworks
 
 <br />
 <p align="left">
